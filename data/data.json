@@ -873,7 +873,7 @@
             "key_name": "Desc_SpaceElevatorPart_8_C",
             "tier": -1,
             "stack_size": 50,
-            "image": "unknown.png"
+            "image": "thermal-propulsion-rocket.png"
         },
         {
             "name": "Gas Filter",
